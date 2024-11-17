@@ -1,10 +1,10 @@
 root {  */
   --branco-principal: #ffffff;
   --cinza-secundario: #c0c0c0;
-  --botao-azul: #f71678;
+  --botao-azul: #e690b5;
   --cor-de-fundo: #00030c;
   --font-principal: "inter";
---botao-azul-efeito-: #ee4292;
+--botao-azul-efeito-: #d67ca6;
 }
 
 body{
@@ -115,7 +115,7 @@ body{
 .rodape {
   text-align: center;
   margin: 5em 3em;
-  background-color:#f71678;
+  background-color:#c5809e;
   color:rgb(245, 240, 240);
 }
 
@@ -149,7 +149,7 @@ body{
 }
 
 .lista__link a:active {
-  color: purple;
+  color: rgb(179, 121, 179);
 }
 
 .container__botao:hover {
